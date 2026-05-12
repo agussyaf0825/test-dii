@@ -7,6 +7,7 @@ Dokumentasi database dan ERD dapat dilihat melalui link berikut:
 ### ERD Preview
 
 ![ERD Database](https://dbdocs.io/syafiudinagus/Test-DII)
+password : 123456
 
 # Backend Management Access System
 
