@@ -2,7 +2,7 @@
 // SWAGGER CONFIGURATION
 // ============================================================================
 // This file contains the Swagger/OpenAPI documentation configuration for the
-// Warehouse Management System API
+// Test DII Management System API
 // ============================================================================
 
 const swaggerJSDoc = require('swagger-jsdoc');
