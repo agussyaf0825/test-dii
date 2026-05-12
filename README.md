@@ -53,7 +53,7 @@ Backend application for Login & Management Access using Node.js, Express.js, Pos
 git clone https://github.com/agussyaf0825/test-dii.git
 npx sequelize db:create
 npx sequelize db:migrate
-npx sequelize db:db:seed
+npx sequelize db:db:seed:all
 npm startt
 ```
 
