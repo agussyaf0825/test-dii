@@ -76,6 +76,15 @@ const { getAllMenu } = require('../controllers/menuController');
  *             example:
  *               success: false
  *               message: Unauthorized or invalid token
+ *       403:
+ *         description: Please select role first
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *             example:
+ *               success: false
+ *               message: Please select role first
  */
 
 router.get('/', getAllMenu);
