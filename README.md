@@ -63,4 +63,5 @@ Swagger API Documentation tersedia pada endpoint berikut:
 
 ```bash
 http://localhost:<port>/api/api-docs
+https://test-dii.gusdev.my.id/api/api-docs
 ```
