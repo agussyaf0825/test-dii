@@ -1,3 +1,13 @@
+## Database Documentation & ERD
+
+Dokumentasi database dan ERD dapat dilihat melalui link berikut:
+
+[DBDocs - Test DII](https://dbdocs.io/syafiudinagus/Test-DII)
+
+### ERD Preview
+
+![ERD Database](https://dbdocs.io/syafiudinagus/Test-DII)
+
 # Backend Management Access System
 
 Backend application for Login & Management Access using Node.js, Express.js, PostgreSQL or Mysql, Sequelize ORM, and JWT Authentication.
