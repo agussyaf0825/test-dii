@@ -25,7 +25,6 @@ const authorization = async (req, res, next) => {
     if (decoded.tokenType !== 'access' && req.originalUrl !== '/api/auth/select-role') {
       return res.status(403).json({
         success: false,
-        needSelectRole: true,
         message: 'Please select role first',
       });
     }
