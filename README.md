@@ -56,3 +56,11 @@ npx sequelize db:migrate
 npx sequelize db:db:seed
 npm startt
 ```
+
+## API Documentation (Swagger)
+
+Swagger API Documentation tersedia pada endpoint berikut:
+
+```bash
+http://localhost:<port>/api/api-docs
+```
