@@ -1,0 +1,47 @@
+# Backend Management Access System
+
+Backend application for Login & Management Access using Node.js, Express.js, PostgreSQL or Mysql, Sequelize ORM, and JWT Authentication.
+
+---
+
+# Features
+
+## Authentication
+
+- Login using username & password
+- JWT Authentication
+- Multi Role Support
+- Select Role after login
+- Authorization Middleware
+
+## Menu Management
+
+- Recursive / Unlimited Nested Menu
+- Get ALl Menu
+- Tree Menu Response
+
+---
+
+# Tech Stack
+
+- Node.js
+- Express.js
+- PostgreSQL or mysql
+- Sequelize ORM
+- JWT
+- Swagger
+- Fastest Validator
+
+---
+
+# Installation
+
+## Clone Repository
+
+```bash
+git clone https://github.com/agussyaf0825/test-dii.git
+npx sequelize db:create
+npx sequelize db:migrate
+npx sequelize db:db:seed
+npm startt
+```
